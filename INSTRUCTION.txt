@@ -1,0 +1,15 @@
+INSTRUCTION
+
+1.In Python 2 print use as a statement and in program its syntax looks like print"Start learning python 2" to print some string.
+  In Python 3 print use as a functions and in program its syntax looks like print("Start learning python 2") to print some string.
+
+2.In Python 2, the implicit string type is ASCII, whereas, in Python 3, the implicit string type is Unicode.
+
+3.There is small change made in Exception handling in Python 3. 'as' keyword is necessary to be used.
+  We will discuss later in the Exception handling section.
+
+4.The implicit string type is ASCII in python 2,whereas in Python 3, the implicit string type is Unicode.
+
+5.The function raw_input() to accept the user's input in Python 2.It returns the string representing the value,which is typed by the user.
+  To convert the string input into integer,we need to use the int() function in python. But In python 3 input() function which automatically 
+  interpreted the type of input entered by the user.we can cast this value to any type by using primitive functions (int(), str(), etc.).
